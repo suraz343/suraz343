@@ -1,5 +1,5 @@
 # 💫 About Me:
-App/Web Developer
+<strong>App/Web Developer<strong><br>
 I'm currently learning full stack web development django framework.<br>I'm looking to collaborate with MNC companies like Google, Netflix, Amazon etc<br>I'm looking for help in building a successful carrier in Web/App Development<br><br>
 
 
