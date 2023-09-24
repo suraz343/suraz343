@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on  full stack web development.<br>I'm looking to collaborate on MNC companies like Google, Netflix, Amazon etc<br>I'm looking for help in building a successful carrier in Web/App Development<br><br>
+App/Web Developer
+I'm currently learning full stack web development django framework.<br>I'm looking to collaborate with MNC companies like Google, Netflix, Amazon etc<br>I'm looking for help in building a successful carrier in Web/App Development<br><br>
 
 
 ## 🌐 Socials:
