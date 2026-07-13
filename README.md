@@ -73,61 +73,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%"/>
 
-## 📌 Project Showcase
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C9A7&height=90&text=Bikri%20Bazaar&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=60" width="100%"/>
-
-**🛒 Bikri Bazaar**
-A modern marketplace for buying and selling second-hand products — listings, search, and messaging between buyers and sellers.
-
-`React` `Express` `Node.js` `MySQL`
-
-[🔗 Repo](https://github.com/suraz343) &nbsp;•&nbsp; [🌐 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2E9EF7&height=90&text=LMS%20Platform&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=60" width="100%"/>
-
-**🎓 Learning Management System**
-Course management platform with authentication, quizzes, and progress tracking for students and instructors.
-
-`React` `Django`
-
-[🔗 Repo](https://github.com/suraz343) &nbsp;•&nbsp; [🌐 Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:2E9EF7&height=90&text=Password%20Manager&fontColor=ffffff&fontSize=26&fontAlign=50&fontAlignY=60" width="100%"/>
-
-**🔐 Password Manager**
-A secure, local-first password manager with client-side encryption.
-
-`React` `JavaScript`
-
-[🔗 Repo](https://github.com/suraz343) &nbsp;•&nbsp; [🌐 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:00C9A7&height=90&text=Odoo%20Storefront&fontColor=ffffff&fontSize=26&fontAlign=50&fontAlignY=60" width="100%"/>
-
-**🧩 Custom Odoo Storefront**
-Client website builds on Odoo — custom headers, blog modules, product/booking pages, and JS-powered snippets using QWeb + SCSS.
-
-`Odoo` `QWeb` `SCSS` `JavaScript`
-
-[🔗 Repo](https://github.com/suraz343) &nbsp;•&nbsp; [🌐 Live Demo](#)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%"/>
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -146,16 +91,6 @@ Client website builds on Odoo — custom headers, blog modules, product/booking 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=suraz343&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/suraz343/suraz343/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> Set up once via GitHub Actions — see setup note below.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%"/>
 
