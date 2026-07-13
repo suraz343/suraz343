@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:6A11CB,100:00C9A7&height=230&section=header&text=Suraj%20Prajapati&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20%7C%20Odoo%20Developer%20%7C%20Django%20Learner&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E9EF7,50:6A11CB,100:00C9A7&height=250&section=header&text=Suraj%20Prajapati&fontSize=60&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20%7C%20Odoo%20Developer%20%7C%20Django%20Learner&descAlignY=56&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Crafting+Custom+Odoo+Solutions;Learning+Django+%26+System+Design;Turning+Ideas+Into+Clean+Code" alt="Typing SVG"/>
 
@@ -180,6 +180,6 @@ Client website builds on Odoo — custom headers, blog modules, product/booking 
 
 ⭐ *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6A11CB,100:2E9EF7&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00C9A7,50:6A11CB,100:2E9EF7&height=150&section=footer&reversal=false" width="100%"/>
 
 </div>
