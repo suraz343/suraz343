@@ -1,52 +1,47 @@
 <div align="center">
 
-<!-- Clean Minimal Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Suraj%20Prajapati&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=45"/>
+<!-- Minimalist Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=090d16&height=180&section=header&text=SURAJ%20PRAJAPATI&fontSize=56&fontColor=ffffff&fontAlignY=45"/>
 
-<!-- Simple Typing -->
+<!-- Monospaced Dynamic Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=F0E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Odoo+ERP+Specialist;Backend+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%E2%80%A2+Odoo+ERP+Architect;Building+Scalable+Backend+Systems;Python+%7C+Django+%7C+Node.js+%7C+Docker"/>
 </p>
 
-<!-- Social Badges -->
+<!-- Sleek Contact & Follow Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-prajapati-057216232">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/suraz343">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/suraz343?label=Followers&style=flat-square&color=7C3AED"/>
+  <a href="https://www.linkedin.com/in/suraj-prajapati-057216232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/github/followers/suraz343?label=Followers&style=flat-square&color=2e2e2e" alt="Followers"/>
 </p>
 
 </div>
 
 ---
 
-## 👋 Hello World!
+## ⚡ Executive Summary
 
-I'm **Suraj Prajapati**, a passionate Full Stack Developer who loves building robust backend systems and crafting elegant solutions. Currently diving deep into **System Design** and **DSA** to level up my engineering game.
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Engineering Robust Architectures</h3>
+      <p>I am a backend-focused full-stack developer specializing in tailored <b>Odoo ERP ecosystems</b> and complex enterprise solutions. My day-to-day involves writing highly optimized Python microservices and designing decoupled system layouts.</p>
+      <p>🎯 <b>The Mission:</b> Solving complex performance bottlenecks while continuously training in low-level system design and data structures to build next-generation tech platforms.</p>
+      <br/>
+      <b>🔭 Current Vectors:</b> Custom module orchestration, DRF API streaming pipelines, and Dockerized scaling architectures.
+    </td>
+    <td width="40%" valign="top" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraz343&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=7c3aed" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-```yaml
-name: Suraj Prajapati
-role: Full Stack Developer
-location: Remote 🌍
-expertise:
-  - Python & Django
-  - Odoo ERP Development
-  - System Architecture
-  - Database Optimization
-currently:
-  learning: System Design & Cloud Architecture
-  building: Scalable Microservices
-  goal: FAANG Engineering Role
+---
 
-🛠️ Tech Stack
-Backend
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"/> </p>
+## 🛠️ Tech Ecosystem
+
+```yml
+Core Backend:  [ Python, Django, Odoo ERP, Node.js, Express, Java ]
+Data Layer:    [ PostgreSQL, MySQL, MongoDB, Redis ]
+Frontend UI:   [ JavaScript, React.js, TailwindCSS, HTML5 ]
+Infrastructure: [ Docker, Linux/Bash, Git, GitHub Actions, Figma ]
