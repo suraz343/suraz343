@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2E9EF7,50:6A11CB,100:00C9A7&height=260&section=header&text=Suraj%20Prajapati&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20%7C%20Odoo%20Developer%20%7C%20Django%20Learner&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Crafting+Custom+Odoo+Solutions;Learning+Django+%26+System+Design;Turning+Ideas+Into+Clean+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=3000&pause=100000&color=2E9EF7&center=true&vCenter=true&width=700&height=70&lines=Suraj+Prajapati" alt="Suraj Prajapati"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=100000&color=6A11CB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Odoo+Developer+%7C+Django+Learner" alt="role"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Crafting+Custom+Odoo+Solutions;Learning+Django+%26+System+Design;Turning+Ideas+Into+Clean+Code" alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/suraj-prajapati-057216232/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,7 +24,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-2E9EF7?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-2E9EF7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Based%20in-Kathmandu%2C%20Nepal-6A11CB?style=for-the-badge"/>
 
 </div>
@@ -180,6 +186,8 @@ Client website builds on Odoo — custom headers, blog modules, product/booking 
 
 ⭐ *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00C9A7,50:6A11CB,100:2E9EF7&height=120&section=footer&reversal=true" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:6A11CB,100:2E9EF7&height=3&width=100%"/>
 
 </div>
